@@ -1,0 +1,27 @@
+logging:
+  level: INFO
+  loggers:
+    com.desafioapi.services: DEBUG
+
+database:
+   # the name of your JDBC driver
+  driverClass: com.mysql.jdbc.Driver
+
+  # the JDBC URL
+  url: jdbc:mysql://localhost:3306/ProdutoAPI?useTimezone=true&serverTimezone=UTC&useSSL=false
+
+  # the username
+  user: root
+  
+  # the password
+  password: mysql
+  
+  maxWaitForConnection: 1s
+  
+  maxConnectionAge: 1h
+  
+  minIdleTime: 1 minute
+  
+  
+  
+
