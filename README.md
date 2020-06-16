@@ -20,9 +20,9 @@ Qualquer dívida estou a disposição.
 
 
 
-LINK BACK END:    https://gitlab.com/JhonDMO/desafioprodutoapi  
+LINK BACK END:    https://github.com/JhonDonavan/Desafio_Produto_API_Back-End  
 
-LINK FRONT END:   https://gitlab.com/JhonDMO/desafioprodutoapifront  
+LINK FRONT END:   https://github.com/JhonDonavan/Desafio_Produto_API_Front-End 
 
 
 ABAIXO SEGUE MAIORES DETALHES SOBRE A EXECUÇÃO DO PROJETO CASO PRECISEM.  
@@ -31,7 +31,7 @@ ABAIXO SEGUE MAIORES DETALHES SOBRE A EXECUÇÃO DO PROJETO CASO PRECISEM.
 =======================================================  
 
 ### Parte BACK  
-URL: https://gitlab.com/JhonDMO/desafioprodutoapi  
+URL: https://github.com/JhonDonavan/Desafio_Produto_API_Back-End
 
 Aplicação desenvolvida em dropwizard. Utilizei o maven para compilação.  
 
@@ -57,7 +57,7 @@ GET     /produtos/{categoria}  --> String com nome da categoria a ser pesquisada
 
 =======================================================  
 ### Parte  front:  
-URL: https://gitlab.com/JhonDMO/desafioprodutoapifront  
+URL: https://github.com/JhonDonavan/Desafio_Produto_API_Front-End 
 
 Para executar usar  comando NPM INSTALL e depois NG SERVE  
 Provavelmente irá executar na port 4200.  
